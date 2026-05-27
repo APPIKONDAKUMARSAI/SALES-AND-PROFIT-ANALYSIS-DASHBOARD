@@ -188,5 +188,7 @@ This project demonstrates how Power BI can be used to transform raw retail sales
 
 The dashboard enables faster decision-making by providing a centralized view of business performance across sales, profit, operations, and customer analytics.
 
+https://github.com/APPIKONDAKUMARSAI/SALES-AND-PROFIT-ANALYSIS-DASHBOARD/blob/main/quantity%20dashboard.png
+
 
 
